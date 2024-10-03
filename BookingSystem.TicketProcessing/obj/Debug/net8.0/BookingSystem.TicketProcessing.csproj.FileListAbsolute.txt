@@ -1,0 +1,14 @@
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\bin\Debug\net8.0\BookingSystem.TicketProcessing.exe
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\bin\Debug\net8.0\BookingSystem.TicketProcessing.deps.json
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\bin\Debug\net8.0\BookingSystem.TicketProcessing.runtimeconfig.json
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\bin\Debug\net8.0\BookingSystem.TicketProcessing.dll
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\bin\Debug\net8.0\BookingSystem.TicketProcessing.pdb
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.AssemblyInfo.cs
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.dll
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\refint\BookingSystem.TicketProcessing.dll
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.pdb
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.genruntimeconfig.cache
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\ref\BookingSystem.TicketProcessing.dll

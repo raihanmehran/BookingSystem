@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystem.Api", "BookingSystem.Api\BookingSystem.Api.csproj", "{FF012B8E-C3E1-4031-BCAB-2C8E50CFB89D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystem.TicketProcessing", "BookingSystem.TicketProcessing\BookingSystem.TicketProcessing.csproj", "{F73EF431-7AB0-439A-BD1F-68C8073B3169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF012B8E-C3E1-4031-BCAB-2C8E50CFB89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF012B8E-C3E1-4031-BCAB-2C8E50CFB89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF012B8E-C3E1-4031-BCAB-2C8E50CFB89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF012B8E-C3E1-4031-BCAB-2C8E50CFB89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73EF431-7AB0-439A-BD1F-68C8073B3169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73EF431-7AB0-439A-BD1F-68C8073B3169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73EF431-7AB0-439A-BD1F-68C8073B3169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73EF431-7AB0-439A-BD1F-68C8073B3169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
