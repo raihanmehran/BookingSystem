@@ -12,3 +12,7 @@ C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Deb
 C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.pdb
 C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.genruntimeconfig.cache
 C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\ref\BookingSystem.TicketProcessing.dll
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.sourcelink.json
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingSystem.TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.TicketProcessing\obj\Debug\net8.0\BookingS.E720DF52.Up2Date

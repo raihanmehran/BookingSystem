@@ -32,3 +32,4 @@ C:\Users\Razer\source\repos\BookingSystem\BookingSystem.Api\obj\Debug\net8.0\Boo
 C:\Users\Razer\source\repos\BookingSystem\BookingSystem.Api\obj\Debug\net8.0\BookingSystem.Api.genruntimeconfig.cache
 C:\Users\Razer\source\repos\BookingSystem\BookingSystem.Api\obj\Debug\net8.0\ref\BookingSystem.Api.dll
 C:\Users\Razer\source\repos\BookingSystem\BookingSystem.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Razer\source\repos\BookingSystem\BookingSystem.Api\obj\Debug\net8.0\BookingSystem.Api.sourcelink.json

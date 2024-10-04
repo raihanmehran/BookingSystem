@@ -1,15 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using BookingSystem.Api.Models;
 using BookingSystem.Api.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace BookingSystem.Api.Controllers
 {
+    [ApiController]
     [Route("[controller]")]
     public class BookingsController : Controller
     {
@@ -27,7 +22,7 @@ namespace BookingSystem.Api.Controllers
             _messageProducer = messageProducer;
         }
 
-        [HttpGet]
+        [HttpPost("create")]
         public IActionResult CreatingBooking(Booking newBooking)
         {
             if (!ModelState.IsValid) return BadRequest();

@@ -13,14 +13,15 @@ namespace BookingSystem.Api.Services
             {
                 HostName = "localhost",
                 UserName = "user",
-                Password = "pass",
+                Password = "passPO",
                 VirtualHost = "/",
             };
 
             var connection = factory.CreateConnection();
             using var channel = connection.CreateModel();
 
-            channel.QueueDeclare("bookings", durable: true, exclusive: true);
+            // channel.QueueDeclare("bookings", durable: true, exclusive: true);
+            channel.QueueDeclare("bookings", durable: true, exclusive: false, autoDelete: false, arguments: null);
 
             var jsonString = JsonSerializer.Serialize(message);
             var body = Encoding.UTF8.GetBytes(jsonString);
